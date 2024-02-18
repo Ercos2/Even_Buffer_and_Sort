@@ -1,0 +1,3 @@
+C:/Users/dimak/Desktop/CLionProjects/test_task_Lesta_games/cmake-build-debug/CMakeFiles/test_task_Lesta_games.dir
+C:/Users/dimak/Desktop/CLionProjects/test_task_Lesta_games/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dimak/Desktop/CLionProjects/test_task_Lesta_games/cmake-build-debug/CMakeFiles/rebuild_cache.dir

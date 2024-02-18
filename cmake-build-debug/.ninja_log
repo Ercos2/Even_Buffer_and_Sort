@@ -1,0 +1,15 @@
+# ninja log v5
+35	709	7299552351009856	CMakeFiles/test_task_Lesta_games.dir/CircularBuffer/CircularBuffer_1.cpp.obj	1234066508a214cc
+9	581	7299552349723132	CMakeFiles/test_task_Lesta_games.dir/CircularBuffer/CircularBuffer.cpp.obj	f963b6a62bbf4061
+709	877	7299552352661632	test_task_Lesta_games.exe	269bfeaaae3e80dc
+43	707	7299520195684612	CMakeFiles/test_task_Lesta_games.dir/CircularBuffer_1.cpp.obj	1b5e3a1bbbeea54f
+29	799	7299551643740031	CMakeFiles/test_task_Lesta_games.dir/main.cpp.obj	45c7de674118c905
+12	604	7299520194650246	CMakeFiles/test_task_Lesta_games.dir/CircularBuffer.cpp.obj	cda6e15cf6b891e2
+51	696	7299520195578975	CMakeFiles/test_task_Lesta_games.dir/CircularBuffer_2.cpp.obj	18c77557756dfa31
+22	686	7299552350782968	CMakeFiles/test_task_Lesta_games.dir/CircularBuffer/CircularBuffer_2.cpp.obj	e85e91a80023559a
+3	240	7299553819866581	build.ninja	45b312ac39dd1d11
+12	651	7299553846006928	CMakeFiles/test_task_Lesta_games.dir/CircularBuffer/CircularBuffer.cpp.obj	1325e442596a6d94
+29	712	7299553846622030	CMakeFiles/test_task_Lesta_games.dir/main.cpp.obj	2a9d9b3eba93ce1b
+57	754	7299553847028808	CMakeFiles/test_task_Lesta_games.dir/CircularBuffer/CircularBuffer_2/CircularBuffer_2.cpp.obj	7521221d69cb72f8
+44	766	7299553847161558	CMakeFiles/test_task_Lesta_games.dir/CircularBuffer/CircularBuffer_1/CircularBuffer_1.cpp.obj	e602ba2073ef1a78
+767	944	7299553848907612	test_task_Lesta_games.exe	1ff313d725e61302
